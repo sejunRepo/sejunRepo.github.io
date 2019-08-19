@@ -18,4 +18,11 @@ paginate: 10
 google-analytics:
   id: ""
 
+## default date_format
+date_format: 
+  title: "%B-%-d-%Y"
+  archive: "%b"
+  categories: "%b-%Y"
+  tag: "%b-%Y"
+
 exclude: ['package.json', 'src' , 'node_modules']
