@@ -26,3 +26,6 @@ date_format:
   tag: "%b-%Y"
 
 exclude: ['package.json', 'src' , 'node_modules']
+
+
+baseurl : /kingzzangsj.github.io
