@@ -13,6 +13,7 @@ twitter_username:
 github_username:  KingzzangSJ
 gplus_username:  lorem_ipsum
 
+paginate: 10
 # Google-analytics
 google-analytics:
   id: ""
