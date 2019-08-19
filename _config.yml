@@ -28,4 +28,4 @@ date_format:
 exclude: ['package.json', 'src' , 'node_modules']
 
 
-baseurl : /kingzzangsj.github.io
+
