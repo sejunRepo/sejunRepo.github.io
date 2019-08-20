@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
   {% include head.html %}
-  <body >
+  <body  style="scroll-snap-type:block mandatory;overflow-y:scroll;">
      {% include header.html %}
-     <div style="scroll-snap-type:block mandatory;overflow-y:scroll;height: 100%">
+     
       <section id="about" class="sc" style="height:100%;scroll-snap-align:center">
         {% include about.html %}
       </section>
@@ -13,10 +13,10 @@
       </section>
     
       
-      <section id="projects" class="sc" style="height:100%;scroll-snap-align:center">
+      <section id="projects" class="sc" style="height:100%;scroll-snap-align:center; scroll-margin-bottom: 20px;">
         {% include projects.html %}
       </section>
-      </div>
+     
       {% include footer.html %}
    
   </body>
