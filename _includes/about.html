@@ -1,12 +1,12 @@
- <div class="user-details" style="height: 100%;width:100%;">
+ <div class="user-details" style="height: 100%;width:80%;background-color: rgb(248, 248, 248)">
   <h1 style="font-size:4rem; text-shadow: 5px 5px 5px grey;"> About {{site.username}} </h1>
   <img src="{{ "/assets/img/33.jpg" | prepend: site.baseurl }}" style="border-radius: 50%; width: 300px; height: 300px;">
   <div style="margin-left: 200px;margin-right: 200px">
-    <p><span class="info">Name : 박세진</span></p>
-    <p><span class="info">Age : 27</span></p>
-    <p><span class="info">Related experience : 19-01 ~ 19-07 KH 정보교육원 JAVA & SPRING 웹/앱 개발자 과정 수료</span></p>
+    <p><span class="skill_title">Name : 박세진</span></p>
+    <p><span class="skill_title">Age : 27</span></p>
+    <p><span class="skill_title">Related Experience :</span></p> <p>19-01 ~ 19-07 KH 정보교육원 JAVA & SPRING 웹/앱 개발자 과정 수료</span></p>
   </div>
-  <div style="margin-left: 100px; margin-right: 100px;">
+  <div style="margin-left: 100px; margin-right: 100px; overflow: auto">
     <p> {{site.user_description}} </p>
   </div>
 
