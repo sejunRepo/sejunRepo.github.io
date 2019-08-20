@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "TeamProject/ 'FirstTravel' 여행계획도우미"
+title:  "TeamProject/ (FirstTravel) 여행계획도우미"
 categories: Jekyll
 tags: Jekyll
 thumbnail: "/assets/img/first_travel.png"
