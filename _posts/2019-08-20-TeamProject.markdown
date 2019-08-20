@@ -4,8 +4,7 @@ title:  "TeamProject/ (FirstTravel) 여행계획도우미"
 categories: Jekyll
 tags: Jekyll
 thumbnail: "/assets/img/first_travel.png"
-description: JAVA 웹/앱 교육과정 TeamProject 입니다. 프로젝트의 여러 기능중 Open Api를 파싱하여 호텔, 항공정보를 제공하는 페이지. 달력구현,
-데이터베이스에 사용자가 세운 여행계획을 저장할 수 있는 페이지, 여행에 유용한 팁들을 공유하는 팁게시판 구현을 담당했습니다.
+description: JAVA 웹/앱 교육과정 TeamProject 입니다. 프로젝트의 여러 기능중 Open Api를 파싱하여 호텔, 항공정보를 제공하는 페이지. 달력구현,데이터베이스에 사용자가 세운 여행계획을 저장할 수 있는 페이지, 여행에 유용한 팁들을 공유하는 팁게시판 구현을 담당했습니다.
 skills: JAVA, Spring Framework, JQuery, Bootstrap3
 ---
 # [Jekyll](https://jekyllrb.com/)
