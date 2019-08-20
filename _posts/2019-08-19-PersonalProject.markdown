@@ -4,6 +4,7 @@ title:  "Personal Project/ 회원제 Social Networking Service"
 categories: Other
 tags: Other
 author: sejin
+thumbnail: "/assets/img/snsp.png"
 description: 독학으로 공부한 Node.js 와 MySQL을 활용하여 구현한 소셜네트워킹서비스입니다. 친구기능, 회원태그기능, 해쉬태그기능 등이 구현되어 있습니다.
 skills: Node.js, MySQL, JQuery, CSS, Bootstrap4 
 ---
