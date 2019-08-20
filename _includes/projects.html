@@ -5,7 +5,7 @@
 {% for post in site.posts %}
 <div class="user-projects" style="box-shadow:5px 5px 5px 5px darkgray;height: 100%;">
   <div class="images-right">
-    <img alt="PersonalProject" src="{{ post.image | prepend: site.baseurl }}" />
+    <img alt="thumbnail_img" src="{{ post.thumbnail | prepend: site.baseurl }}" />
   </div>
   <div class="contents">
     <h3> {{post.title}} </h3>
