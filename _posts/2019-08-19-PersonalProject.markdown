@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Personal Project/ 회원제 Social Networking Service
+title:  "Personal Project/ 회원제 Social Networking Service"
 categories: Other
 tags: Other
 author: sejin
