@@ -5,6 +5,7 @@ categories: Other
 tags: Other
 author: Xixia
 description: The read me page of jekyll-xixia.
+skills: Java, javascript, JQUERY, Spring
 ---
 
 Jekyll Xixia
