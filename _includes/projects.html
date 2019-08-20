@@ -4,8 +4,8 @@
 
 {% for post in site.posts %}
 <div class="user-projects" style="box-shadow:5px 5px 5px 5px darkgray;height: 100%;">
-  <div class="images-right">
-    <img alt="thumbnail_img" src="{{ post.thumbnail | prepend: site.baseurl }}" />
+  <div class="images-right" style="height:100%">
+    <img alt="thumbnail_img" src="{{ post.thumbnail | prepend: site.baseurl }}" style="height:100%"/>
   </div>
   <div class="contents">
     <h3> {{post.title}} </h3>
