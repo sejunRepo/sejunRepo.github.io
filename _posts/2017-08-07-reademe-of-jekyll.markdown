@@ -4,9 +4,7 @@ title:  "Readme of Jekyll!"
 date:   2017-09-05 14:10:51 +0800
 categories: Jekyll
 tags: Jekyll
-description: The read me page of Jekyll.ㄴㅇㅎㅇㄶㅇㄶㄴㅇㅎ ㄴㅇㅎㄴㅇㅎㄴㅇㅎㄴㅇㅎ ㄴㅇㅎㅇㄶㄴㅇㅎㄴㅇㅎ  ㄴㅇㅎㄴㅇㅎㄴㅇㅎㄴㅇ ㄴㅇㅎㅇㄶㄴㅇㅎㄴㅇㅎ
-ㄴㅇㅎㄴㅇㅎㄴㅇㅎㄴㅇ ㄴㅇㅎㄴㅇㅎㄴㅇㅎㄴㅇㅎ ㄴㅇㅎㄴㅇㅎㄴㅇㅎㄴㅇㅎㄴㅇㅎ ㄴㅇㅎㄴㅇㅎㄴㅇ ㅎㄴㅇㅎㄴㅇ ㄴㅇㅎㄴㅇ,
-AND ㄴㅇㅎㅇㄶ ㄴㅇㅎㄴㅇㅎㄴㅇㅎㄴㅇㅎㄴㅇㅎㄴㅇㅎ
+description: The read me page of Jekyll. I was, dasdas dasdasd ,,as dasdas qwdwqd qwdwqdqw . qwdwqd qwddqw  qwdwqdwqdwqdwqd
 skills: nodejs(express), JQuery
 ---
 # [Jekyll](https://jekyllrb.com/)
