@@ -1,12 +1,11 @@
 ---
 layout: post
-title:  "Read Me"
+title:  Personal Project/ 회원제 Social Networking Service
 categories: Other
 tags: Other
-author: Xixia
-description: The read me page of jekyll-xixia.asdas asdasdasd asdasd asdas asdasdas  asdas. asd asdasd  asdasd, asd asdas  asdasd
- asdasd asdasdasd asdasdasdasdasdasdasdas
-skills: Java, javascript, JQUERY, Spring
+author: sejin
+description: 독학으로 공부한 Node.js 와 MySQL을 활용하여 구현한 소셜네트워킹서비스입니다. 친구기능, 회원태그기능, 해쉬태그기능 등이 구현되어 있습니다.
+skills: Node.js, MySQL, JQuery, CSS, Bootstrap4 
 ---
 
 Jekyll Xixia
@@ -16,16 +15,7 @@ Jekyll Xixia
 * See the [live demo](http://xixia.info/jekyll-xixia/).
 * See it [in action on my own blog](http://xixia.info/).
 
-A simple and clean Jekyll theme using [bootstrap](http://getbootstrap.com)
-(not to be confused with jekyll-bootstrap) that's easy to modify and very
-modular in component and element reuse.
-
-The theme works well on mobile phones, using a collapsable nav bar and hiding the
-sidebar. The links pane in the sidebar is available on mobile through the nav menu,
-and you can do the same thing for any other sections added to the sidebar.
-
-Don't forget to occassionally merge against my upstream repository so you can get
-the latest changes. Pull requests are encouraged and accepted!
+냉무냉무냉무
 
 Preview
 =======

@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  "Readme of Jekyll!"
-date:   2017-09-05 14:10:51 +0800
+title:  "TeamProject/ 'FirstTravel' 여행계획도우미"
+date:   2019-08-20 14:10:51 +0800
 categories: Jekyll
 tags: Jekyll
-description: The read me page of Jekyll. I was, dasdas dasdasd ,,as dasdas qwdwqd qwdwqdqw . qwdwqd qwddqw  qwdwqdwqdwqdwqd
-skills: nodejs(express), JQuery
+description: JAVA 웹/앱 교육과정 TeamProject 입니다. 프로젝트의 여러 기능중 Open Api를 파싱하여 호텔, 항공정보를 제공하는 페이지. 달력구현,
+데이터베이스에 사용자가 세운 여행계획을 저장할 수 있는 페이지, 여행에 유용한 팁들을 공유하는 팁게시판 구현을 담당했습니다.
+skills: JAVA, Spring Framework, JQuery, Bootstrap3
 ---
 # [Jekyll](https://jekyllrb.com/)
 
@@ -29,8 +30,7 @@ Jekyll is a simple, blog-aware, static site generator perfect for personal, proj
 
 ## Philosophy
 
-Jekyll does what you tell it to do — no more, no less. It doesn't try to outsmart users by making bold assumptions, nor does it burden them with needless complexity and configuration. Put simply, Jekyll gets out of your way and allows you to concentrate on what truly matters: your content.
-
+냉무
 See: https://jekyllrb.com/philosophy
 
 ## Having trouble?
