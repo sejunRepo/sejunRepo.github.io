@@ -1,18 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
   {% include head.html %}
-  <body>
+  <body style="scroll-snap-type:y mandatory;">
      {% include header.html %}
-      <section id="about" class="sc">
+      <section id="about" class="sc" style="height:100%;scroll-snap-align:start">
         {% include about.html %}
       </section>
       
-    <section id="skills" class="sc">
+    <section id="skills" class="sc" style="height:100%;scroll-snap-align:start">
           {% include skills.html %}
       </section>
     
       
-      <section id="projects" class="sc">
+      <section id="projects" class="sc" style="height:100%;scroll-snap-align:start">
         {% include projects.html %}
       </section>
       {% include footer.html %}
