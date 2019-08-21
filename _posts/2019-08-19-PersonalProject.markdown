@@ -68,7 +68,6 @@ skills: Node.js, MySQL, JQuery, CSS, Bootstrap4
 
 ======
 
-1，[Jekyll][jekyll-url]
 
 2，[Bootstrap][bootstrap-url]
 
