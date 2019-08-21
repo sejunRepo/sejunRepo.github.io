@@ -9,14 +9,14 @@ description: 독학으로 공부한 Node.js 와 MySQL을 활용하여 구현한 
 skills: Node.js, MySQL, JQuery, CSS, Bootstrap4 
 ---
 
-Jekyll Xixia
+SNS / Personal Project
 ============
 
 * Get it from [github](https://github.com/zxixia/jekyll-xixia).
 * See the [live demo](http://xixia.info/jekyll-xixia/).
 * See it [in action on my own blog](http://xixia.info/).
 
-냉무냉무냉무
+![Image Alt 텍스트]({{site.url}}/assets/img/sns_p.png)
 
 Preview
 =======
