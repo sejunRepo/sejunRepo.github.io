@@ -1,22 +1,26 @@
 <div class="user-details">
-  <h1 style="font-size:4rem; text-shadow: 5px 5px 5px grey;padding-top: 2px; margin:0px;"> Featured Projects </h1>
-</div> 
+  <h1> Featured Projects </h1>
 
-{% for post in site.posts %}
-<div class="user-projects" style="box-shadow:5px 5px 5px 5px darkgray;height: 100%;">
-  <div class="images-right" style="height:100%">
-    <img alt="thumbnail_img" src="{{ post.thumbnail | prepend: site.url }}" style="height:100%"/>
-  </div>
-  <div class="contents" style="overflow: auto; float:left; width: 52%; height: 100%;">
-    <h3> {{post.title}} </h3>
-    <ul>
-      <li> {{post.skills}}</li>
-    </ul>
-    <p>{{post.description}}</p>
-    <a class="project-link" href="{{post.url | prepend: site.url}}#content">상세보기 </a>
-</div>
+  {% for post in site.posts %}
+<div class="user-projects">
+    <div class="images-right" style="height:100%">
+      <img alt="thumbnail_img" src="{{ post.thumbnail | prepend: site.url }}" style="height:100%"/>
+    </div>
+    <div class="contents" style="overflow: auto; float:left; width: 52%; height: 100%;">
+      <h3> {{post.title}} </h3>
+      <ul>
+        <li> {{post.skills}}</li>
+      </ul>
+      <p>{{post.description}}</p>
+      <a class="project-link" href="{{post.url | prepend: site.url}}#content">상세보기 </a>
+    </div>
 </div>
 {% endfor %}
+  
+</div> 
+
+
+
  
  
 
