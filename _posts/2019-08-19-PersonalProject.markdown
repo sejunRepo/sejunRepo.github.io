@@ -12,7 +12,7 @@ skills: Node.js, MySQL, JQuery, CSS, Bootstrap4
 회원가입
 ============
 
-![Image Alt 텍스트]({{site.url}}/assets/img/p_p/sns_p.png) ![Image Alt 텍스트]({{site.url}}/assets/img/p_p/join_1.png) ![Image Alt 텍스트]({{site.url}}/assets/img/p_p/join2.png)
+![Image Alt 텍스트]({{site.url}}/assets/img/p_p/sns_p.png) ![Image Alt 텍스트]({{site.url}}/assets/img/p_p/join1.png) ![Image Alt 텍스트]({{site.url}}/assets/img/p_p/join_2.png)
 
 Preview
 =======
