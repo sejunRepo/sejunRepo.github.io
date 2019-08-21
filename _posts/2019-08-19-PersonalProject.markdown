@@ -1,8 +1,6 @@
 ---
 layout: post
 title:  "Personal Project/ 회원제 Social Networking Service"
-categories: Other
-tags: Other
 author: sejin
 thumbnail: "/assets/img/p_p/sns_p.png"
 description: 독학으로 공부한 Node.js 와 MySQL을 활용하여 구현한 소셜네트워킹서비스입니다. 친구기능, 회원태그기능, 해쉬태그기능 등이 구현되어 있습니다.
@@ -119,7 +117,14 @@ ID로 친구를 검색하는 창입니다.
 
 추천 친구탭에는 나와 친구가 아닌 내 친구의 친구들이  
 페이지를 열 때마다 랜덤으로 3명까지 추천됩니다.    
-추천친구 카드에는 함께아는 친구의 숫자가 출력됩니다.   
+추천친구 카드에는 함께아는 친구의 숫자가 출력됩니다.  
+
+
+  
+    
+
+**Youtube 시연영상 ( 꼭 봐주세요 !)**
+https://youtu.be/3r2bzRlRxuM
 
 
 
