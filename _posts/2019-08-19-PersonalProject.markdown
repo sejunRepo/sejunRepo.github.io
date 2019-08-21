@@ -75,5 +75,15 @@ skills: Node.js, MySQL, JQuery, CSS, Bootstrap4
 ======
 ![Image Alt 해쉬태그검색]({{site.url}}/assets/img/p_p/my_page.png){: width="30%" height="350"}{:.p1image}
 ![Image Alt 해쉬태그검색]({{site.url}}/assets/img/p_p/fr_page.png){: width="30%" height="350"}{:.p1image}
-![Image Alt 해쉬태그검색]({{site.url}}/assets/img/p_p/not_fr.png){: width="30%" height="350"}{:.p1image}
+![Image Alt 해쉬태그검색]({{site.url}}/assets/img/p_p/not_fr.png){: width="30%" height="350"}{:.p1image}  
+  
+왼쪽부터 차례로 나의페이지, 친구인 유저의 페이지, 친구가 아닌 유저의 페이지
+유저 페이지는 해당 유저의 친구목록과 게시글이 출력하고 친구가 아닐경우 친구신청 버튼을 제공합니다.  
+  
+게시글의 유저아이디나, 친구목록의 유저아이디등 어딘가에서든 유저의 아이디를 클릭하면 
+해당 유저의 페이지로 이동되게 됩니다.    
+이 페이지를 통하여 친구의 친구를 찾아내서 친구 신청을 할 수 있습니다. 
+
+
+
 
