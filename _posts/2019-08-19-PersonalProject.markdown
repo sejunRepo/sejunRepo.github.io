@@ -80,8 +80,9 @@ skills: Node.js, MySQL, JQuery, CSS, Bootstrap4
 왼쪽부터 차례로 나의페이지, 친구인 유저의 페이지, 친구가 아닌 유저의 페이지 입니다.  
    
   
-유저 페이지는 해당 유저의 친구목록과 나와 유저 모두가 친구인 유저목록
-해당 유저의 게시글을 제공합니다. 친구가 아닐경우 친구신청 버튼도 제공합니다.  
+유저 페이지는 해당 유저의 친구목록과 나와 유저 모두가 친구인 유저목록  
+그리고 해당 유저의 게시글을 제공합니다.  
+친구가 아닐경우 친구신청 버튼도 제공합니다.    
   
 게시글의 유저아이디나, 친구목록의 유저아이디등 어딘가에서든   
 유저의 아이디를 클릭하면 해당 유저의 페이지로 이동되게 됩니다.    
@@ -91,7 +92,7 @@ skills: Node.js, MySQL, JQuery, CSS, Bootstrap4
 
 친구찾기 페이지
 ======
-![Image Alt 친구찾기페이지]({{site.url}}/assets/img/p_p/friend.png){: width="30%" height="350"}{:.p1image}  
+![Image Alt 친구찾기페이지]({{site.url}}/assets/img/p_p/friend.png){: width="40%" height="400"}{:.p1image}  
 
 
 
