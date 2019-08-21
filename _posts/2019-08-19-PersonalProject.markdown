@@ -4,23 +4,19 @@ title:  "Personal Project/ 회원제 Social Networking Service"
 categories: Other
 tags: Other
 author: sejin
-thumbnail: "/assets/img/sns_p.png"
+thumbnail: "/assets/img/p_p/sns_p.png"
 description: 독학으로 공부한 Node.js 와 MySQL을 활용하여 구현한 소셜네트워킹서비스입니다. 친구기능, 회원태그기능, 해쉬태그기능 등이 구현되어 있습니다.
 skills: Node.js, MySQL, JQuery, CSS, Bootstrap4 
 ---
 
-SNS / Personal Project
+회원가입
 ============
 
-* Get it from [github](https://github.com/zxixia/jekyll-xixia).
-* See the [live demo](http://xixia.info/jekyll-xixia/).
-* See it [in action on my own blog](http://xixia.info/).
-
-![Image Alt 텍스트]({{site.url}}/assets/img/sns_p.png)
+![Image Alt 텍스트]({{site.url}}/assets/img/p_p/sns_p.png) ![Image Alt 텍스트]({{site.url}}/assets/img/p_p/join_1.png) ![Image Alt 텍스트]({{site.url}}/assets/img/p_p/join_2.png)
 
 Preview
 =======
-![Xixia]({{ site.baseurl }}//assets/images/preview.png)
+
 
 License
 =======
