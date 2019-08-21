@@ -13,10 +13,15 @@ skills: Node.js, MySQL, JQuery, CSS, Bootstrap4
 ============
 
 ![Image Alt 로그인]({{site.url}}/assets/img/p_p/sns_p.png){: width="30%" height="350"} 
-![Image Alt 가입]({{site.url}}/assets/img/p_p/join1.png){: width="30%" height="350"} ![Image Alt 가입2]({{site.url}}/assets/img/p_p/join_2.png){: width="30%" height="350"}
+![Image Alt 가입]({{site.url}}/assets/img/p_p/join1.png){: width="30%" height="350"} 
+![Image Alt 가입2]({{site.url}}/assets/img/p_p/join_2.png){: width="30%" height="350"}
 
-Preview
+메인페이지
 =======
+
+![Image Alt 로그인]({{site.url}}/assets/img/p_p/main.png){: width="30%" height="350"} 
+![Image Alt 가입]({{site.url}}/assets/img/p_p/main2.png){: width="30%" height="350"} 
+![Image Alt 가입2]({{site.url}}/assets/img/p_p/timeLine.png){: width="30%" height="350"}
 
 
 License
