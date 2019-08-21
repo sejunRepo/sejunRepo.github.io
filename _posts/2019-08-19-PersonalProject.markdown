@@ -23,8 +23,8 @@ skills: Node.js, MySQL, JQuery, CSS, Bootstrap4
 
 **메인페이지 전체 구성** 
 
-![Image Alt 가입]({{site.url}}/assets/img/p_p/main_2.png){: width="40%" height="350"}{:.p1image}  
-![Image Alt 가입2]({{site.url}}/assets/img/p_p/timeline.png){: width="40%" height="350"}{:.p1image}   
+![Image Alt 친구목록]({{site.url}}/assets/img/p_p/main_2.png){: width="40%" height="350"}{:.p1image}  
+![Image Alt 타임라인]({{site.url}}/assets/img/p_p/tm.png){: width="40%" height="350"}{:.p1image}   
 
 **1.친구목록 Card**
 
