@@ -9,8 +9,10 @@ skills: JAVA, Spring Framework, JQuery, Bootstrap3
 
  TeamProject는 제작한 PDF 파일을 캡쳐하여 포스팅 하겠습니다.
 
-![Image Alt 친구찾기페이지]({{site.url}}/assets/img/teamp/first_travel.png)
- ![Image Alt 친구찾기페이지]({{site.url}}/assets/img/teamp/arch.png)
+![Image Alt 친구찾기페이지]({{site.url}}/assets/img/teamp/first_travel.png)  
+
+ ![Image Alt 친구찾기페이지]({{site.url}}/assets/img/teamp/arch.png)  
+ 
  
  ![Image Alt 친구찾기페이지]({{site.url}}/assets/img/teamp/erd.png)    
 
