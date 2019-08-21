@@ -19,9 +19,9 @@ skills: Node.js, MySQL, JQuery, CSS, Bootstrap4
 메인페이지
 =======
 
+###**메인페이지 전체 구성** 
 ![Image Alt 로그인]({{site.url}}/assets/img/p_p/main1.png){: width="50%" height="500"}{:.p1image} 
 
-**메인페이지 전체 구성** 
 
 ![Image Alt 친구목록]({{site.url}}/assets/img/p_p/main_2.png){: width="40%" height="350"}{:.p1image}  
 ![Image Alt 타임라인]({{site.url}}/assets/img/p_p/tm.png){: width="40%" height="350"}{:.p1image}   
@@ -39,24 +39,13 @@ skills: Node.js, MySQL, JQuery, CSS, Bootstrap4
 
 
 
-
-License
+###타임라인 세부기능
 =======
+![Image Alt 타임라인전체]({{site.url}}/assets/img/p_p/timeLinefull.png){: width="50%" height="350"}  
 
-The content of this theme is distributed and licensed under a
-![License Badge]({{ site.baseurl }}/assets/images/cc_by_88x31.png)
-[Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/legalcode)
+![Image Alt 해쉬태그검색]({{site.url}}/assets/img/p_p/tags.png){: width="30%" height="350"}
+![Image Alt 친구태그기능]({{site.url}}/assets/img/p_p/header_msg.png){: width="30%" height="350"}
 
-    This license lets others distribute, remix, tweak, and build upon your work,
-    even commercially, as long as they credit you for the original creation. This
-    is the most accommodating of licenses offered. Recommended for maximum
-    dissemination and use of licensed materials.
-
-In other words: you can do anything you want with this theme on any site, just please
-provide a link to [the original theme on github](https://github.com/zxixia/jekyll-xixia)
-so I get credit for the original design. Beyond that, have at it!
-
-Thanks
 ======
 
 1，[Jekyll][jekyll-url]
