@@ -11,5 +11,11 @@ skills: JAVA, Spring Framework, JQuery, Bootstrap3
 
  ![Image Alt 친구찾기페이지]({{site.url}}/assets/img/teamp/arch.png)
  
- ![Image Alt 친구찾기페이지]({{site.url}}/assets/img/teamp/erd.png)
+ ![Image Alt 친구찾기페이지]({{site.url}}/assets/img/teamp/erd.png)  
+
+ ![Image Alt 친구찾기페이지]({{site.url}}/assets/img/teamp/lay1.png)  
+
+![Image Alt 친구찾기페이지]({{site.url}}/assets/img/teamp/lay2.png)  
+
+![Image Alt 친구찾기페이지]({{site.url}}/assets/img/teamp/lay.png)
 
