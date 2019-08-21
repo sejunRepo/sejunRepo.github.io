@@ -39,6 +39,9 @@ skills: Node.js, MySQL, JQuery, CSS, Bootstrap4
 작성시간과 현재시간의 차이에 따라 X 분전, X 시간전, X 일전 으로 작성시간을 출력합니다.  
 타임라인 게시글은 스크롤이 최하단으로 이동할 때 마다 5개씩 로드합니다.  
 
+  
+   
+
 
 
 
@@ -53,8 +56,8 @@ skills: Node.js, MySQL, JQuery, CSS, Bootstrap4
 **1.해쉬태그 기능**  
 
 글에는 글쓴이가 글을 등록할때 추가한 해쉬태그가 버튼으로 출력됩니다.  
-해쉬태그를 클릭, 혹은 헤더 네비게이션바의 해쉬태그 검색창에 검색하면 그림과 같이  
-해당 해쉬태그를 지닌 모든 글이 조회됩니다.  
+해쉬태그를 클릭, 혹은 헤더 네비게이션바의 해쉬태그 검색창에 검색하면   
+그림과 같이 해당 해쉬태그를 지닌 모든 글이 조회됩니다.  
 
 **2.친구태그 기능** 
 
@@ -66,17 +69,11 @@ skills: Node.js, MySQL, JQuery, CSS, Bootstrap4
 
 전송된 메시지를 클릭시 해당 댓글이 있는 게시글로 이동하며, 메시지는 (읽음) 상태로 변경됩니다.
 
+
+
+유저 개인페이지
 ======
+![Image Alt 해쉬태그검색]({{site.url}}/assets/img/p_p/my_page.png){: width="30%" height="350"}{:.p1image}
+![Image Alt 해쉬태그검색]({{site.url}}/assets/img/p_p/fr_page.png){: width="30%" height="350"}{:.p1image}
+![Image Alt 해쉬태그검색]({{site.url}}/assets/img/p_p/not_fr.png){: width="30%" height="350"}{:.p1image}
 
-
-2，[Bootstrap][bootstrap-url]
-
-3，[Github][github-url]
-
-4，[Jekyll Clean Theme][Jekyll-Clean-Theme-url]
-
-[jekyll-url]: http://jekyllrb.com/
-[bootstrap-url]: http://getbootstrap.com/
-[github-url]: https://github.com/
-[Jekyll-Clean-Theme-url]: https://github.com/scotte/jekyll-clean
-[xixia-url]: http://xixia.info/
