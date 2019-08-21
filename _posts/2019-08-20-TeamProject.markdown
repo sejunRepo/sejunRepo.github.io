@@ -9,13 +9,62 @@ skills: JAVA, Spring Framework, JQuery, Bootstrap3
 
  TeamProject는 제작한 PDF 파일을 캡쳐하여 포스팅 하겠습니다.
 
+![Image Alt 친구찾기페이지]({{site.url}}/assets/img/teamp/first_travel.png)
  ![Image Alt 친구찾기페이지]({{site.url}}/assets/img/teamp/arch.png)
  
- ![Image Alt 친구찾기페이지]({{site.url}}/assets/img/teamp/erd.png)  
+ ![Image Alt 친구찾기페이지]({{site.url}}/assets/img/teamp/erd.png)    
 
- ![Image Alt 친구찾기페이지]({{site.url}}/assets/img/teamp/lay1.png)  
+ ![Image Alt 친구찾기페이지]({{site.url}}/assets/img/teamp/lay1.png)    
 
-![Image Alt 친구찾기페이지]({{site.url}}/assets/img/teamp/lay2.png)  
+![Image Alt 친구찾기페이지]({{site.url}}/assets/img/teamp/lay2.png)    
 
-![Image Alt 친구찾기페이지]({{site.url}}/assets/img/teamp/lay.png)
+![Image Alt 친구찾기페이지]({{site.url}}/assets/img/teamp/lay.png)  
+
+![Image Alt 친구찾기페이지]({{site.url}}/assets/img/teamp/resinfo.png)  
+
+![Image Alt 친구찾기페이지]({{site.url}}/assets/img/teamp/full.png)  
+
+![Image Alt 친구찾기페이지]({{site.url}}/assets/img/teamp/cal.png)  
+
+![Image Alt 친구찾기페이지]({{site.url}}/assets/img/teamp/air.png)  
+
+![Image Alt 친구찾기페이지]({{site.url}}/assets/img/teamp/hotel1.png)  
+
+![Image Alt 친구찾기페이지]({{site.url}}/assets/img/teamp/hotel2.png)  
+
+![Image Alt 친구찾기페이지]({{site.url}}/assets/img/teamp/info.png)  
+
+![Image Alt 친구찾기페이지]({{site.url}}/assets/img/teamp/planfull.png)  
+
+![Image Alt 친구찾기페이지]({{site.url}}/assets/img/teamp/plan2.png)  
+
+![Image Alt 친구찾기페이지]({{site.url}}/assets/img/teamp/plan3.png)  
+
+![Image Alt 친구찾기페이지]({{site.url}}/assets/img/teamp/plan4.png)  
+
+![Image Alt 친구찾기페이지]({{site.url}}/assets/img/teamp/tipinfo.png)  
+
+![Image Alt 친구찾기페이지]({{site.url}}/assets/img/teamp/tip2.png)  
+
+![Image Alt 친구찾기페이지]({{site.url}}/assets/img/teamp/tip3.png)  
+
+![Image Alt 친구찾기페이지]({{site.url}}/assets/img/teamp/tip4.png)  
+  
+![Image Alt 친구찾기페이지]({{site.url}}/assets/img/teamp/tip5.png)  
+
+![Image Alt 친구찾기페이지]({{site.url}}/assets/img/teamp/tip6.png)  
+
+![Image Alt 친구찾기페이지]({{site.url}}/assets/img/teamp/tip7.png)  
+
+![Image Alt 친구찾기페이지]({{site.url}}/assets/img/teamp/tip8.png)  
+
+![Image Alt 친구찾기페이지]({{site.url}}/assets/img/teamp/last.png)  
+
+**Youtube 시연영상**  
+
+[유튜브시연영상](https://youtu.be/9Ng1kC_uNe8)
+
+
+
+
 
