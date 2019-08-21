@@ -8,6 +8,16 @@ description: 독학으로 공부한 Node.js 와 MySQL을 활용하여 구현한 
 skills: Node.js, MySQL, JQuery, CSS, Bootstrap4 
 ---
 
+
+테이블 관계도
+======
+  
+    
+    
+![Image Alt 친구목록]({{site.url}}/assets/img/p_p/main_2.png){: width="30%" height="350"}{:.p1image}  
+  
+    
+
 회원가입
 ============
 
