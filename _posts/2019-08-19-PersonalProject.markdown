@@ -21,10 +21,21 @@ skills: Node.js, MySQL, JQuery, CSS, Bootstrap4
 
 ![Image Alt 로그인]({{site.url}}/assets/img/p_p/main1.png){: width="50%" height="500"}  
 
-메인페이지 전체 구성  
+**메인페이지 전체 구성** 
 
 ![Image Alt 가입]({{site.url}}/assets/img/p_p/main2.png){: width="40%" height="350"} 
-![Image Alt 가입2]({{site.url}}/assets/img/p_p/timeLine.png){: width="40%" height="350"}
+![Image Alt 가입2]({{site.url}}/assets/img/p_p/timeLine.png){: width="40%" height="350"}  
+
+**친구목록 Card**
+
+사용자의 전체 친구들의 썸네일과 상태메시지를 ul로 출력
+
+**타임라인 Card**  
+
+타임라인 카드에서는 내 친구들과 나의 글을 모아서 출력해줌.
+작성시간이 현재시간과 1일 이내 차이가 나면 x 시간전, 1일이상 차이가 나면 x일 전 작성이라고 출력  
+각 글에는 글쓴이가 지정한 Hash tag가 버튼으로 출력되며 Hash tag를 클릭시 해당 Hash tag를 가진 모든 글을 조회해서 출력해줌
+
 
 
 
