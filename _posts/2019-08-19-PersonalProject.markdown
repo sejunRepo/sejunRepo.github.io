@@ -44,7 +44,7 @@ skills: Node.js, MySQL, JQuery, CSS, Bootstrap4
 
 ###타임라인 세부기능  
 
-![Image Alt 타임라인전체]({{site.url}}/assets/img/p_p/tmf.png){: width="50%" height="350"}   
+![Image Alt 타임라인전체]({{site.url}}/assets/img/p_p/tmf.png){: width="30%" height="400"}   
 ![Image Alt 해쉬태그검색]({{site.url}}/assets/img/p_p/tags.png){: width="30%" height="350"}
 ![Image Alt 친구태그기능]({{site.url}}/assets/img/p_p/header_msg.png){: width="30%" height="350"}
 
