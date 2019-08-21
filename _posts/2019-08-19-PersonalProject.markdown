@@ -19,18 +19,21 @@ skills: Node.js, MySQL, JQuery, CSS, Bootstrap4
 메인페이지
 =======
 
-###메인페이지 전체 구성 
+###메인페이지 전체 구성  
+
 ![Image Alt 로그인]({{site.url}}/assets/img/p_p/main1.png){: width="50%" height="500"}{:.p1image} 
 
 
-![Image Alt 친구목록]({{site.url}}/assets/img/p_p/main_2.png){: width="40%" height="350"}{:.p1image}  
-![Image Alt 타임라인]({{site.url}}/assets/img/p_p/tm.png){: width="40%" height="350"}{:.p1image}   
+![Image Alt 친구목록]({{site.url}}/assets/img/p_p/main_2.png){: width="30%" height="350"}{:.p1image}
+![Image Alt 타임라인]({{site.url}}/assets/img/p_p/tm.png){: width="30%" height="350"}{:.p1image}    
+ 
 
-**1.친구목록 Card**
+**1.친구목록 Card**  
+
 
 사용자의 전체 친구들의 썸네일과 상태메시지를 ul로 출력합니다.  
 
-**2.타임라인 Card**  
+**2.타임라인 Card**    
 
 타임라인 카드에서는 내 친구들과 나의 글을 모아서 출력해줍니다.  
 작성시간과 현재시간의 차이에 따라 X 분전, X 시간전, X 일전 으로 작성시간을 출력합니다.  
@@ -39,9 +42,9 @@ skills: Node.js, MySQL, JQuery, CSS, Bootstrap4
 
 
 
-###타임라인 세부기능
-![Image Alt 타임라인전체]({{site.url}}/assets/img/p_p/timelinefull.png){: width="50%" height="350"}  
+###타임라인 세부기능  
 
+![Image Alt 타임라인전체]({{site.url}}/assets/img/p_p/timelinefull.png){: width="50%" height="350"}   
 ![Image Alt 해쉬태그검색]({{site.url}}/assets/img/p_p/tags.png){: width="30%" height="350"}
 ![Image Alt 친구태그기능]({{site.url}}/assets/img/p_p/header_msg.png){: width="30%" height="350"}
 
