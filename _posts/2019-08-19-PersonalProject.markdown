@@ -125,7 +125,7 @@ ID로 친구를 검색하는 창입니다.
     
 
 **Youtube 시연영상 ( 꼭 봐주세요 !)**
-https://youtu.be/3r2bzRlRxuM
+[유튜브시연영상]{https://youtu.be/3r2bzRlRxuM}
 
 
 
