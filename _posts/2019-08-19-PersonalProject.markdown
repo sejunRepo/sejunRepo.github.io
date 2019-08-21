@@ -44,9 +44,27 @@ skills: Node.js, MySQL, JQuery, CSS, Bootstrap4
 
 ### 타임라인 세부기능  
 
-![Image Alt 타임라인전체]({{site.url}}/assets/img/p_p/tmf.png){: width="30%" height="400"}{:.p1image}   
+![Image Alt 타임라인전체]({{site.url}}/assets/img/p_p/tmlt.png){: width="30%" height="400"}{:.p1image}   
 ![Image Alt 해쉬태그검색]({{site.url}}/assets/img/p_p/tags.png){: width="30%" height="350"}{:.p1image}
-![Image Alt 친구태그기능]({{site.url}}/assets/img/p_p/header_msg.png){: width="30%" height="350"}{:.p1image}  
+![Image Alt 친구태그기능]({{site.url}}/assets/img/p_p/header_msg.png){: width="30%" height="350"}{:.p1image}
+  
+
+
+**1.해쉬태그 기능**  
+
+글에는 글쓴이가 글을 등록할때 추가한 해쉬태그가 버튼으로 출력됩니다.  
+해쉬태그를 클릭, 혹은 헤더 네비게이션바의 해쉬태그 검색창에 검색하면 그림과 같이  
+해당 해쉬태그를 지닌 모든 글이 조회됩니다.  
+
+**2.친구태그 기능** 
+
+댓글을 작성할 때 @ 로 작성을 시작하면  
+내 친구 목록에서 @이후의 문자로 시작하는 모든 친구들의 리스트가 출력됩니다.  
+
+@친구아이디를 입력후 엔터키를 누르면 친구가 태그되며  
+위 그림과같이 태그된 친구에게는 메시지가 전송되게 됩니다.  
+
+전송된 메시지를 클릭시 해당 댓글이 있는 게시글로 이동하며, 메시지는 (읽음) 상태로 변경됩니다.
 
 ======
 
