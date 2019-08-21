@@ -14,7 +14,7 @@ skills: Node.js, MySQL, JQuery, CSS, Bootstrap4
   
     
 
-![Image Alt 친구목록]({{site.url}}/assets/img/p_p/tables.png){: width="30%" height="350"}{:.p1image}  
+![Image Alt 친구목록]({{site.url}}/assets/img/p_p/tables.png){: width="40%" height="450"}{:.p1image}  
   
     
 
