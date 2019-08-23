@@ -7,7 +7,7 @@ description: JAVA 웹/앱 교육과정 TeamProject 입니다. 프로젝트의 �
 skills: JAVA, Spring Framework, JQuery, Bootstrap3
 ---
 
- TeamProject는 제작한 PDF 파일을 캡쳐하여 포스팅 하겠습니다.
+ 제가 구현한 파트만 따로 포스팅 하였습니다.
 
 ![Image Alt 친구찾기페이지]({{site.url}}/assets/img/teamp/first_travel.png)  
 
