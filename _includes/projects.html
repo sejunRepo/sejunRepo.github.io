@@ -12,7 +12,8 @@
         <li> {{post.skills}}</li>
       </ul>
       <p>{{post.description}}</p>
-      <a class="project-link" href="{{post.url | prepend: site.url}}#content">상세보기 </a>
+      <a class="project-link" href="{{post.href}}"> 상세 보기</a>
+      
     </div>
 </div>
 {% endfor %}
